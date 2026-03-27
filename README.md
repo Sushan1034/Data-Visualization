@@ -1,12 +1,12 @@
-# ⚡ EV & Charging Infrastructure Analytics Dashboard
+#  EV & Charging Infrastructure Analytics Dashboard
 
 A professional-grade, high-performance analytics suite designed to visualize global electric vehicle (EV) trends and charging infrastructure development. Built with **Streamlit**, **Plotly**, and **Pandas**, this dashboard provides actionable insights into market growth, regional capacity, and charging compatibility.
 
 ---
 
-## 🚀 Features
+##  Features
 
-### 📊 1. Core Analytics Dashboard
+###  1. Core Analytics Dashboard
 *   **Dynamic KPIs**: Real-time calculation of metrics including:
     *   **Charging Demand Pressure**: Battery capacity vs. total available power.
     *   **Fast Charging Availability**: Percentage of high-power stations (>50kW).
@@ -20,18 +20,18 @@ A professional-grade, high-performance analytics suite designed to visualize glo
     *   Infrastructure Mix (Donut)
     *   Global Manufacturing Hubs (Bar)
 
-### 📈 2. MultiFacet Deep-Dive
+###  2. MultiFacet Deep-Dive
 *   **Infrastructure Capacity**: Comparison of port distribution across power categories.
 *   **Regional Intensity**: Stacked analysis of the top 10 infrastructure-leading countries.
 
-### 🌍 3. Geospatial Intelligence
+###  3. Geospatial Intelligence
 *   **Infrastructure Density**: Interactive choropleth map showing global station counts.
 *   **Manufacturing Origins**: Global mapping of EV model diversity by country.
 *   **Animated Market Evolution**: Time-lapse visualization of global EV market expansion.
 
 ---
 
-## 🛠️ Tech Stack & Requirements
+##  Tech Stack & Requirements
 
 *   **Language**: Python 3.8+
 *   **Framework**: [Streamlit](https://streamlit.io/)
@@ -40,7 +40,7 @@ A professional-grade, high-performance analytics suite designed to visualize glo
 
 ---
 
-## 📥 Installation & Setup
+##  Installation & Setup
 
 1.  **Clone the Repository** (assuming authentication is configured):
     ```bash
@@ -51,17 +51,17 @@ A professional-grade, high-performance analytics suite designed to visualize glo
 2.  **Install Dependencies**:
     Ensure you have Python installed, then run:
     ```bash
-    pip install streamlit pandas plotly numpy
+    py -m pip install -r requirements.txt
     ```
 
 3.  **Run the Application**:
     ```bash
-    streamlit run app.py
+    py -m streamlit run app.py
     ```
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 dashboard/
@@ -74,7 +74,7 @@ dashboard/
 
 ---
 
-## 🎨 Aesthetic Design
+##  Aesthetic Design
 The dashboard uses a **Clean & Sustainable** theme:
 *   **Color Palette**: Professional Emerald and Teal gradients.
 *   **UI/UX**: Minimalist card-based layout with glassmorphism effects.
