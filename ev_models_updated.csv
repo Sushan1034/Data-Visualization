@@ -1,0 +1,129 @@
+make,model,market_regions,powertrain,first_year,body_style,origin_country,age_2025,battery_capacity_kWh
+Tesla,Model S,Global (US/EU/UK/ME),BEV,2012,Sedan,US,13,98.1
+Tesla,Model 3,Global (US/EU/UK/ME/CN),BEV,2017,Sedan,US,8,73.3
+Tesla,Model X,Global (US/EU/UK/ME),BEV,2015,SUV,US,10,110.6
+Tesla,Model Y,Global (US/EU/UK/ME/CN),BEV,2020,SUV,US,5,61.0
+Tesla,Cybertruck,US (limited),BEV,2023,Pickup,US,2,90.5
+Nissan,Leaf,Global (EU/UK/US/JP),BEV,2010,Hatchback,JP,15,45.5
+Chevrolet,Bolt EV,US/CA (discontinued 2023; returning),BEV,2016,Hatchback,US,9,21.7
+Chevrolet,Bolt EUV,US/CA (discontinued 2023),BEV,2021,Crossover,US,4,46.0
+Ford,Mustang Mach-E,US/EU/UK/ME,BEV,2020,SUV,US,5,38.0
+Ford,F-150 Lightning,US/CA,BEV,2022,Pickup,US,3,41.2
+Volkswagen,ID.3,EU/UK,BEV,2020,Hatchback,DE,5,20.6
+Volkswagen,ID.4,Global (US/EU/UK/CN),BEV,2020,SUV,DE,5,49.1
+Volkswagen,ID. Buzz,EU/UK/US,BEV,2022,Van,DE,3,45.0
+Skoda,Enyaq iV,EU/UK,BEV,2020,SUV,CZ,5,26.4
+Audi,Q4 e-tron,EU/UK/US,BEV,2021,SUV,DE,4,25.5
+Porsche,Taycan,Global (EU/UK/US/ME/CN),BEV,2019,Sedan/Wagon,DE,6,25.5
+Cupra,Born,EU/UK,BEV,2021,Hatchback,ES,4,29.1
+Hyundai,Kona Electric,Global (EU/UK/US/ME),BEV,2018,SUV,KR,7,58.4
+Hyundai,IONIQ 5,Global (EU/UK/US/ME),BEV,2021,Crossover,KR,4,55.1
+Hyundai,IONIQ 6,Global (EU/UK/US/ME),BEV,2022,Sedan,KR,3,50.2
+Kia,EV6,Global (EU/UK/US/ME),BEV,2021,Crossover,KR,4,38.4
+Kia,EV9,Global (EU/UK/US/ME),BEV,2023,SUV (3-row),KR,2,24.2
+Genesis,GV60,EU/UK/US/ME,BEV,2022,Crossover,KR,3,28.8
+BMW,i4,Global (EU/UK/US),BEV,2021,Sedan,DE,4,31.0
+BMW,iX,Global (EU/UK/US),BEV,2021,SUV,DE,4,33.7
+BMW,i5,Global (EU/UK/US),BEV,2023,Sedan,DE,2,43.6
+Mercedes-Benz,EQA,EU/UK,BEV,2021,SUV,DE,4,26.0
+Mercedes-Benz,EQB,EU/UK/US,BEV,2021,SUV,DE,4,35.4
+Mercedes-Benz,EQE,EU/UK/US,BEV,2022,Sedan/SUV,DE,3,37.8
+Mercedes-Benz,EQS,Global (EU/UK/US/ME),BEV,2021,Sedan/SUV,DE,4,21.4
+Volvo,XC40 Recharge,EU/UK/US,BEV,2020,SUV,SE,5,38.2
+Volvo,C40 Recharge,EU/UK/US,BEV,2021,Crossover,SE,4,25.1
+Volvo,EX30,EU/UK/ME,BEV,2023,SUV,SE,2,22.0
+Volvo,EX90,EU/US (rolling out),BEV,2024,SUV,SE,1,48.5
+Polestar,2,Global (EU/UK/US),BEV,2019,Liftback,SE/CN,6,49.0
+Polestar,3,EU/US/UK (2024-2025),BEV,2023,SUV,SE/CN,2,44.3
+Peugeot,e-208,EU/UK,BEV,2019,Hatchback,FR,6,29.1
+Peugeot,e-2008,EU/UK,BEV,2020,SUV,FR,5,22.9
+Opel,Corsa-e,EU/UK,BEV,2020,Hatchback,DE,5,40.5
+Citroën,ë-C4,EU/UK,BEV,2020,Crossover,FR,5,33.2
+Fiat,500e,EU/US (reintroduced),BEV,2020,Hatchback,IT,5,23.7
+Renault,Megane E-Tech Electric,EU/UK,BEV,2022,Hatchback,FR,3,34.9
+Dacia,Spring,EU/UK,BEV,2021,City car,RO/CN,4,21.0
+Toyota,bZ4X,Global (EU/UK/US/JP),BEV,2022,SUV,JP,3,47.3
+Subaru,Solterra,Global (EU/UK/US/JP),BEV,2022,SUV,JP,3,27.8
+Honda,e,EU/JP,BEV,2019,City car,JP,6,39.9
+Honda,e:Ny1,EU/UK,BEV,2023,SUV,JP,2,29.4
+Jaguar,I-Pace,Global (EU/UK/US),BEV,2018,SUV,UK,7,35.6
+Lucid,Air,US/EU/ME,BEV,2021,Sedan,US,4,36.4
+Lucid,Gravity,US (from 2025),BEV,2025,SUV,US,0,25.5
+Rivian,R1T,US/CA,BEV,2021,Pickup,US,4,49.1
+Rivian,R1S,US/CA,BEV,2022,SUV,US,3,43.3
+BYD,Dolphin,Global (EU/ME/LA/CN),BEV,2021,Hatchback,CN,4,48.2
+BYD,Seal,Global (EU/ME/CN),BEV,2022,Sedan,CN,3,46.8
+BYD,Han,CN/ME/EU (limited),BEV,2020,Sedan,CN,5,37.9
+BYD,Tang,CN/EU (limited),BEV,2018,SUV,CN,7,47.7
+NIO,ET5,CN/EU (select),BEV,2022,Sedan,CN,3,22.7
+NIO,ET7,CN/EU (select),BEV,2021,Sedan,CN,4,25.9
+NIO,ES6,CN/EU (select),BEV,2019,SUV,CN,6,21.4
+XPeng,P7,CN/EU (select),BEV,2019,Sedan,CN,6,29.8
+XPeng,G9,CN/EU (select),BEV,2022,SUV,CN,3,31.7
+Smart,#1,EU/UK/CN,BEV,2022,SUV,CN/DE,3,28.1
+Audi,e-tron GT,Global (EU/UK/US),BEV,2021,Sedan,Germany,4,44.9
+Audi,Q8 e-tron,Global (EU/UK/US),BEV,2023,SUV,Germany,2,30.7
+BMW,i7,Global (EU/UK/US),BEV,2022,Sedan,Germany,3,28.4
+BMW,iX1,EU/UK,BEV,2022,SUV,Germany,3,36.3
+BMW,iX2,EU/UK,BEV,2024,SUV,Germany,1,24.2
+BMW,iX3,EU/UK/China,BEV,2020,SUV,Germany,5,44.1
+Mercedes-Benz,EQE SUV,Global (EU/UK/US),BEV,2023,SUV,Germany,2,22.2
+Mercedes-Benz,EQS SUV,Global (EU/UK/US),BEV,2022,SUV,Germany,3,49.6
+Volkswagen,ID.5,EU/UK,BEV,2021,SUV,Germany,4,43.2
+Volkswagen,ID.7,EU/UK,BEV,2023,Sedan,Germany,2,26.0
+Škoda,Enyaq,EU/UK,BEV,2020,SUV,Czech Republic,5,20.2
+Porsche,Macan Electric,EU/UK,BEV,2024,SUV,Germany,1,44.5
+Rolls-Royce,Spectre,Global (EU/UK/US),BEV,2023,Coupe,United Kingdom,2,41.2
+Renault,Scenic E-Tech,EU/UK,BEV,2024,Crossover,France,1,41.9
+Renault,5 E-Tech,EU/UK,BEV,2024,Hatchback,France,1,43.1
+Peugeot,e-3008,EU/UK,BEV,2024,SUV,France,1,22.2
+Peugeot,e-308,EU/UK,BEV,2023,Hatchback,France,2,30.8
+Opel,Astra Electric,EU/UK,BEV,2023,Hatchback,Germany,2,23.5
+Opel,Astra Electric Sports Tourer,EU/UK,BEV,2023,Wagon,Germany,2,45.9
+Opel,Mokka-e,EU/UK,BEV,2020,SUV,Germany,5,38.7
+Citroën,ë-C4 X,EU/UK,BEV,2022,Sedan,France,3,29.9
+Citroën,ë-C3,EU/UK,BEV,2024,Hatchback,France,1,21.9
+Fiat,600e,EU/UK,BEV,2023,SUV,Italy,2,29.3
+Abarth,500e,EU/UK,BEV,2023,Hatchback,Italy,2,29.8
+DS Automobiles,DS 3 E-Tense,EU/UK,BEV,2019,SUV,France,6,41.9
+Jeep,Avenger Electric,EU/UK,BEV,2023,SUV,Italy,2,39.1
+Nissan,Ariya,Global (EU/UK/JP/US),BEV,2022,SUV,Japan,3,46.6
+Lexus,RZ,Global (EU/UK/JP/US),BEV,2022,SUV,Japan,3,34.2
+Lexus,UX 300e,EU/UK/JP,BEV,2020,SUV,Japan,5,23.6
+Honda,Prologue,US,BEV,2024,SUV,Japan,1,41.4
+Kia,Niro EV,Global (EU/UK/US),BEV,2018,SUV,South Korea,7,42.8
+Volvo,EX40,Global (EU/UK/US),BEV,2020,SUV,Sweden,5,36.8
+Volvo,EC40,Global (EU/UK/US),BEV,2021,SUV Coupe,Sweden,4,43.1
+Polestar,4,Global (EU/UK/US/CN),BEV,2023,SUV Coupe,Sweden,2,34.8
+Lotus,Eletre,EU/UK/China,BEV,2023,SUV,United Kingdom,2,35.7
+Lotus,Emeya,EU/UK/China,BEV,2024,Sedan,United Kingdom,1,32.8
+Maserati,GranTurismo Folgore,EU/UK,BEV,2023,Coupe,Italy,2,20.8
+Maserati,Grecale Folgore,EU/UK,BEV,2024,SUV,Italy,1,23.2
+Alfa Romeo,Junior Elettrica,EU/UK,BEV,2024,SUV,Italy,1,20.9
+MINI,Cooper Electric (J01),EU/UK,BEV,2024,Hatchback,United Kingdom,1,39.1
+MINI,Aceman,EU/UK/China,BEV,2024,SUV,United Kingdom,1,29.4
+Smart,#3,EU/UK/China,BEV,2023,SUV Coupe,Germany,2,35.3
+BYD,Atto 3 (Yuan Plus),Global (EU/UK/CN/ME),BEV,2021,SUV,China,4,47.2
+BYD,Seal U,EU/UK/CN,BEV,2023,SUV,China,2,27.5
+BYD,Seagull (Dolphin Mini),CN/LatAm/ME,BEV,2023,Hatchback,China,2,32.3
+MG,MG4 Electric,EU/UK,BEV,2022,Hatchback,China,3,42.7
+MG,MG5 Electric,EU/UK,BEV,2021,Wagon,China,4,26.9
+MG,ZS EV,EU/UK,BEV,2019,SUV,China,6,22.3
+NIO,ES8,CN/EU,BEV,2018,SUV,China,7,28.7
+XPeng,G6,CN/EU,BEV,2023,SUV,China,2,24.8
+Zeekr,001,CN/EU,BEV,2021,Shooting Brake,China,4,47.9
+Zeekr,007,CN,BEV,2023,Sedan,China,2,44.2
+Zeekr,X,CN/EU,BEV,2023,SUV,China,2,39.0
+Zeekr,009,CN,BEV,2022,MPV,China,3,46.1
+Ora,03 Funky Cat,EU/UK,BEV,2021,Hatchback,China,4,44.1
+Ora,07 (Lightning Cat),CN/EU,BEV,2022,Sedan,China,3,25.6
+Chery,Omoda E5,EU/UK/ME,BEV,2024,SUV,China,1,46.8
+Leapmotor,T03,EU/CN,BEV,2020,Hatchback,China,5,36.2
+VinFast,VF8,Global (VN/US/EU),BEV,2022,SUV,Vietnam,3,44.2
+VinFast,VF9,Global (VN/US/EU),BEV,2023,SUV,Vietnam,2,46.9
+Chevrolet,Blazer EV,US,BEV,2023,SUV,United States,2,29.5
+Chevrolet,Equinox EV,US,BEV,2024,SUV,United States,1,23.3
+Chevrolet,Silverado EV,US,BEV,2023,Pickup,United States,2,26.8
+GMC,Hummer EV,US,BEV,2021,Pickup/SUV,United States,4,32.8
+Cadillac,Lyriq,US/China,BEV,2022,SUV,United States,3,44.5
+Cadillac,Escalade IQ,US,BEV,2024,SUV,United States,1,45.8
